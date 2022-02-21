@@ -57,6 +57,6 @@ Send notifications by local running tests to `Telegram`:
 ```
 java  "-DprojectName=PROJECT_NAME" "-Denv=ENVIRONMENT" "-DreportLink=BUILD_URL" "-Dcomm=Any comment here" "-Dconfig.file=notifications/telegram.json" -jar notifications/allure-notifications-3.1.2.jar
 ```
-##<img width="16%" title="Telegram" src="readme_images/Telegram.svg">Telegram notification
+##<img width="4%" title="Telegram" src="readme_images/Telegram.svg">Telegram notification
 
 
